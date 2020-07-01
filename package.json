@@ -1,9 +1,12 @@
 {
-  "name": "-",
+  "name": "@percuss.io/data",
   "description": "-",
   "version": "1.0.0",
-  "repository": {},
-  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/percuss-io/data"
+  },
+  "license": "ISC",
   "dependencies": {},
   "devDependencies": {}
 }
