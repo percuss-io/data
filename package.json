@@ -7,6 +7,9 @@
     "url": "https://github.com/percuss-io/data"
   },
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {},
   "devDependencies": {}
 }
